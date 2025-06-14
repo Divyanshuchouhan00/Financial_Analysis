@@ -18,7 +18,7 @@
 
 ## Dataset
 - Source: [Financial_Analysis.csv]
-- Columns: Market Cap, Quarterly Sales, Sentiment Score
+- Columns: Mar Cap - Crore, Sale Qtr - Crore, Market_Cap_Category, Sales_Qtr_category.
 
 
 ## Contributors
